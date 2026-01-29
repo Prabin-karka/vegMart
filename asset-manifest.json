@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/veg_mart/static/css/main.a0c6b039.css",
+    "main.js": "/veg_mart/static/js/main.3508e592.js",
+    "static/js/453.2c2e1d2c.chunk.js": "/veg_mart/static/js/453.2c2e1d2c.chunk.js",
+    "static/media/banner1.jpg": "/veg_mart/static/media/banner1.0ada2a37559611c5a16a.jpg",
+    "static/media/banner2.jpg": "/veg_mart/static/media/banner2.79ded86ae226a076a6f1.jpg",
+    "static/media/banner3.avif": "/veg_mart/static/media/banner3.78886efa4992349dd878.avif",
+    "index.html": "/veg_mart/index.html",
+    "main.a0c6b039.css.map": "/veg_mart/static/css/main.a0c6b039.css.map",
+    "main.3508e592.js.map": "/veg_mart/static/js/main.3508e592.js.map",
+    "453.2c2e1d2c.chunk.js.map": "/veg_mart/static/js/453.2c2e1d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c6b039.css",
+    "static/js/main.3508e592.js"
+  ]
+}
